@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/www/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/www/database/factories" isTestSource="false" packagePrefix="Database\Factories\" />
+      <sourceFolder url="file://$MODULE_DIR$/www/database/seeders" isTestSource="false" packagePrefix="Database\Seeders\" />
+      <sourceFolder url="file://$MODULE_DIR$/www/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/www/tests/Feature" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/www/tests/Unit" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/laravel-project/www" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/carbonphp/carbon-doctrine-types" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/dflydev/dot-access-data" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/fakerphp/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/fruitcake/php-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/guzzlehttp/guzzle" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
